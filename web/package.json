@@ -1,0 +1,28 @@
+{
+  "name": "oa-home",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "compression-webpack-plugin": "^9.2.0",
+    "element-plus": "^2.1.4",
+    "js-cookie": "^3.0.1",
+    "less": "^4.1.2",
+    "less-loader": "^10.2.0",
+    "vue": "^3.2.31",
+    "vue-router": "^4.0.14",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.4",
+    "sass": "^1.49.9",
+    "sass-loader": "^12.6.0",
+    "video.js": "^7.18.1",
+    "vite": "^2.8.6",
+    "vite-plugin-style-import": "^1.4.1"
+  }
+}
